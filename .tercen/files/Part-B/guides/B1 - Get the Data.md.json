@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-B/guides/B1 - Get the Data.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B1 - Get the Data.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "3",
+ "dataUri": "9c/21/9c219ca3-e00a-4af2-86c4-36aa410414c2",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 164
+}

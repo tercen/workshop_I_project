@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-B/guides/B0 - Intro - Part B.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B0 - Intro - Part B.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "3",
+ "dataUri": "2c/af/2caf3076-2e0b-421e-b3e7-c9f872916b4f",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 312
+}

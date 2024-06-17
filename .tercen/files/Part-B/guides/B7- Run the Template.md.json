@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-B/guides/B7- Run the Template.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B7- Run the Template.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "3",
+ "dataUri": "00/c6/00c63186-0bbb-4ed9-b621-2a786c97faff",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 170
+}

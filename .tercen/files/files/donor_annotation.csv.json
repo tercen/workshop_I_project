@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/donor_annotation.csv",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "donor_annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "dataUri": "37/6d/376d5bf2-9379-4427-95c9-ac259290e721",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 7373
+}

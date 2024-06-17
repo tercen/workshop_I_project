@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-B/guides/B3 - Plot the Data.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B3 - Plot the Data.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "3",
+ "dataUri": "6a/1e/6a1e2a94-3ec5-4909-b158-d0f3908c61f8",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 165
+}

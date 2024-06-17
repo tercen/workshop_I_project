@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-B/guides/B5 - Calculate the Mean.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B5 - Calculate the Mean.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "3",
+ "dataUri": "08/5c/085c2355-7cb9-41b9-8a7e-ed564ec37996",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 170
+}

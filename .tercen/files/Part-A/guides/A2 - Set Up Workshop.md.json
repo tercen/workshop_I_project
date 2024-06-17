@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-A/guides/A2 - Set Up Workshop.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A2 - Set Up Workshop.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "4",
+ "dataUri": "68/3c/683c9441-7e29-48f4-8d11-7817152bf513",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 171
+}

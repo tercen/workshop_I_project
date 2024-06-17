@@ -1,0 +1,1 @@
+<iframe src="https://scribehow.com/embed/0105__Calculate_a_Median__F2DBrp6XSB-ebcM-Sh998Q?removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>

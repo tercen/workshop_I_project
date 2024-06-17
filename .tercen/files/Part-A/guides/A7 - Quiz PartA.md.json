@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-A/guides/A7 - Quiz PartA.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A7 - Quiz PartA.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "4",
+ "dataUri": "37/fd/37fddf0c-ec38-42b7-b5c4-2b30c8f93505",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 222
+}

@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Part-A/guides/A6 - Export Plot and Data .md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "A6 - Export Plot and Data .md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "4",
+ "dataUri": "75/75/7575bc2e-e8a9-4e9e-9c09-4b4dcea0f8f8",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 177
+}

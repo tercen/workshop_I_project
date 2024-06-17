@@ -1,0 +1,1 @@
+<iframe src="https://scribehow.com/embed/0101__How_to_Think__iblcA-nQQSOf__ZegbPntw?removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>

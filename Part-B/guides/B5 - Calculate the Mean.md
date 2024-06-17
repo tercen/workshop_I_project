@@ -1,0 +1,1 @@
+<iframe src="https://scribehow.com/embed/0111__Calculate_Mean__TrJwEGy4SgGza54dN4BKaQ?removeLogo=true" width="100%" height="640" allowfullscreen frameborder="0"></iframe>

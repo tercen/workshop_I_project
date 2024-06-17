@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/grifols_cytokine_data.csv",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "grifols_cytokine_data.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "dataUri": "f6/d3/f6d3acf0-abee-4e78-9836-fe0e762833ef",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 6487
+}

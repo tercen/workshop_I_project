@@ -1,0 +1,151 @@
+{
+ "kind": "TableSchema",
+ "id": "492d0cfde1dc1df2f0112c3674ff15dbd90e79aa970c8c4f1a3abc0029ada0c3",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "donor_annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "492d0cfde1dc1df2f0112c3674ff15dbd90e79aa970c8c4f1a3abc0029ada0c3"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "nRows": 127,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "3286d5c3-c697-49aa-8bd1-7d0876e2c161",
+   "name": "SUBJECT ID",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "7dfe9a32-9118-4c49-814b-daa9f1833f78",
+   "name": "AGE",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "32c75200-dc3c-4c71-90bf-d20718eb88bd",
+   "name": "AGEGR1N",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "b3d4ae2e-d853-4306-b37b-8d3e00793f38",
+   "name": "AGEGR1C",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "6dbbd71d-14a9-4040-8d58-62ef10732cee",
+   "name": "RACEGRP",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "1af7c971-c626-4c38-a657-3d770fd9f22a",
+   "name": "SEXN",
+   "type": "double",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "89dccf2c-19a4-4a84-bfbe-f3de660d0548",
+   "name": "SEXC",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/49/2d/492d0cfde1dc1df2f0112c3674ff15dbd90e79aa970c8c4f1a3abc0029ada0c3",
+ "relation": {
+  "kind": "Relation",
+  "id": "8efc7e26-6d15-4383-a3da-bf7a081e0b98"
+ }
+}
